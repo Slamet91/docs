@@ -118,7 +118,7 @@ gh pr create --reviewer monalisa,hubot  --reviewer myorg/team-name
 
 To create the pull request in your default web browser, use the `--web` flag.
 
-```shell
+``
 gh pr create --web
 ```
 
